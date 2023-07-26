@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.Contenitore {
+  padding-top: 10px;
+  padding-left: 10vw;
+  padding-bottom: 10px;
+  background: #fcfcfc;
+  border-radius: 10px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
